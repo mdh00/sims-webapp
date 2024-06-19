@@ -59,9 +59,9 @@
 
         h1 {
             position: relative;
-            right:100px:
+            right:100px;
             color: rgb(0, 0, 0);
-            font-size: 40px:
+            font-size: 40px;
         }
 
         
